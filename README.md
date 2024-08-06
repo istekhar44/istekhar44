@@ -1,7 +1,7 @@
 ![logo](https://github.com/istekhar44/istekhar44/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Md Istekhar Alam</h1>
 <h3 align="center">A passionate frontend Electronic and Communication Engineer from India</h3>
-<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding"width="300"src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istekhar44&label=Profile%20views&color=0e75b6&style=flat" alt="istekhar44" /> </p>
 
