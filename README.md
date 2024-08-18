@@ -30,4 +30,3 @@
 
 ## Watch snake eating my github contributions
 
-![snake gif](https://github.com/istekhar44/istekhar44/blob/output/github-contribution-grid-snake.svg)
