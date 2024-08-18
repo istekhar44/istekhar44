@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istekhar44&" alt="istekhar44" /></p>
 
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/Istekhar44/Istekhar44/blob/output/github-contribution-grid-snake.svg)
