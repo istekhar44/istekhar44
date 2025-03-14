@@ -40,8 +40,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=istekhar44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=istekhar44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=istekhar44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istekhar44&theme=transparent)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istekhar44&theme=transparent)
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=istekhar44&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
