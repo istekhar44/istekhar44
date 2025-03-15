@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Istekhar Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=istekhar44&label=Profile%20views&color=0e75b6&style=flat" alt="istekhar44" /> </p>
 <table style="border: none;">
   <tr>
     <td style="border: none; vertical-align: middle;">
