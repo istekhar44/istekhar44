@@ -2,12 +2,8 @@
   <img src="Blue Modern Technology LinkedIn Banner (1).jpg" alt="Banner Image" width="100%">
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Md Istekhar Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-
 
 <table style="border: none;">
   <tr>
@@ -40,19 +36,15 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=istekhar44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=istekhar44&theme=dark&hide_border=false)<br/>
-
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istekhar44&theme=transparent)
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istekhar44&theme=transparent)
-  
+## </> Top Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istekhar44&theme=transparent)
+## 📈Profile Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istekhar44&theme=transparent)  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=istekhar44&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=istekhar44&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=istekhar44&icon=0&color=0)](https://visitcount.itsvg.in)
