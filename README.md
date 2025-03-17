@@ -38,7 +38,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=istekhar44&theme=transparent&hide_border=true)<br/>
 ## </> Top Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istekhar44&theme=transparent)
-## 📈Profile Details
+## 👤Profile Details
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istekhar44&theme=transparent)  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=istekhar44&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
